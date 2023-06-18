@@ -1,0 +1,6 @@
+
+
+
+inte main(void){
+    
+}

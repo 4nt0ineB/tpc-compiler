@@ -1,0 +1,9 @@
+
+int f(void){
+    return 1000;
+}
+
+int main(void){
+    char x = f();
+    return 0;
+}

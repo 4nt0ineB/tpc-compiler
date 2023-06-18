@@ -1,0 +1,13 @@
+
+void f(void){
+    ;
+}
+
+void b(int x){
+    ;
+}
+
+int main(void){
+    b(f());
+    return 0;
+}

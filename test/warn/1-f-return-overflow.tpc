@@ -1,0 +1,10 @@
+
+char f(void){
+
+    return 1000;
+}
+
+int main(void){
+
+    return 0;
+}

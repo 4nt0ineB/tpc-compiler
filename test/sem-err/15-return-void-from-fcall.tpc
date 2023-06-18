@@ -1,0 +1,12 @@
+
+void b(void){
+    ;
+}
+
+int f(void){
+    return b();
+}
+
+int main(void){
+    return 0;
+}

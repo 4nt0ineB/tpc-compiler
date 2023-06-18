@@ -1,0 +1,20 @@
+
+void f(int n, int a, int x){
+    while(n != 26){
+        putchar('a'+n);
+        n = n + 1;
+        if(n >= 12){
+            a = a + 1;
+            putchar('\n');
+            putint(a);
+            putchar('\n');
+            return;
+        }
+    }
+}
+
+int main(void)  {
+    f(0, 0, 0);
+    return 0;
+}
+
