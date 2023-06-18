@@ -28,7 +28,7 @@ DESCRIPTION
 	-t, --tree
 		parse the input and display the abstract syntax tree
 
-		-d [file]
+	-d [file]
 		produce a dot formated file from the abstract syntax tree
 
 	-s display symbol tables
