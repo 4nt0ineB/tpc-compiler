@@ -2,16 +2,16 @@
 Project Small compiler for the TPC language, a subset of C.
 The purpose of this project during the final year of my cs degree was to introduce the concepts and methods of compilation.
 
-
+produces the executable in bin/tpcc
 ```sh
 make
 ```
-produce the executable in bin/tpcc
 
+runs the tests and gives a report in test/tpc-test.txt
 ```sh
 make test
 ```
-run the tests and gives a report in test/tpc-test.txt
+
 
 ### tpcc help
 ```sh
